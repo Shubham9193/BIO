@@ -26,9 +26,9 @@
     <b>Self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Aspiring Full Stack Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
   </em> 
   <br>
-
+  <br>
   <b><i align="center">"Success is the sum of small efforts repeated DAY IN & DAY OUT!”</i></b>
-  
+  </br>
   </br>
 </p>
 <br></br>
